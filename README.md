@@ -1,0 +1,1 @@
+Make diamond and emerald spawn item when game start
