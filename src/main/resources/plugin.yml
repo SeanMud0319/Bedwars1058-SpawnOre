@@ -1,0 +1,7 @@
+name: Bedwras1058-SpawnOre
+api-version: '1.13'
+version: ${project.version}
+author: Nontage
+description: Make diamond and emerald spawn item when game start
+main: com.nontage.SpawnOre
+softdepend:  [Bedwars1058]
